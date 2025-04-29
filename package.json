@@ -1,0 +1,24 @@
+{
+  "name": "module-15-livetest",
+  "version": "1.0.0",
+  "description": "Assignment Live Test Exam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nayan-mia-09/module-15-liveTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nayan-mia-09/module-15-liveTest/issues"
+  },
+  "homepage": "https://github.com/nayan-mia-09/module-15-liveTest#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
